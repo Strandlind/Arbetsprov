@@ -136,11 +136,8 @@ PHP PDO, MySQL, utf8mb4.
 
 **config.php** – Grundkonfiguration
 
-Innehåller globala konstanter för API-adressen och min personliga API-nyckel.
+Innehåller globala konstanter för API-adressen och API-nyckel.
 Används av api_client.php för alla API-anrop.
-
-define('API_BASE', 'https://arbetsprov.trinax.se/api/v1');
-define('API_TOKEN', '79fbf65e4896bfb2434922de8f2cbd32');
 
 -----------------------------------------------------------------------------------------
 
