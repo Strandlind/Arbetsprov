@@ -31,6 +31,8 @@ projektmapp/
 
 **index.php** – Lista tidrapporter
 
+http://localhost/Arbetsprov/index.php
+
 Denna sida hämtar alla befintliga tidrapporter från API:et och presenterar dem i en tabell.
 Användaren kan filtrera resultatet efter arbetsplats och datumintervall.
 
@@ -53,6 +55,8 @@ PHP för databehandling, HTML/Bootstrap för layout, GET-parametrar för filtrer
 -----------------------------------------------------------------------------------------
 
 **create.php** – Skapa ny tidrapport
+
+http://localhost/Arbetsprov/create.php
 
 Denna sida innehåller ett formulär för att skapa nya tidrapporter.
 Formuläret skickas asynkront via JavaScript (AJAX) till upload.php, som skapar upp tidrapporten i API:t och eventuella bilduppladdningar.
