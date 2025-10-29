@@ -3,12 +3,15 @@ Tidrapport  (PHP, HTML, JS, MySQL)
 
 -----------------------------------------------------------------------------------------
 
-PHP 8+
-HTML/Bootstrap 5
+Visual Studio Code
+PHP 8+ (cURL, POD)
+HTML
+CSS/Bootstrap 5
 MySQL (via PDO)
 JavaScript (Fetch/AJAX)
 REST API-integration
-XAMPP (lokal Apache + MySQL-server) 
+XAMPP (lokal Apache + MySQL-server)
+Postman (testa API-anslutning)
 
 -----------------------------------------------------------------------------------------
 
@@ -20,6 +23,7 @@ projektmapp/
 ├── api_client.php
 ├── db.php
 ├── config.php
+├── arbetsprov_db.sql       ← Kopia av lokal MySql databas (PhpMyAdmin)
 ├── Uploads/                ← här sparas uppladdade bilder
 └── Bilder/                 ← bilder som används för logga och uppladdning
 
