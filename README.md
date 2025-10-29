@@ -3,7 +3,7 @@ Tidrapport  (PHP, HTML, JS, MySQL)
 
 -----------------------------------------------------------------------------------------
 
-Visual Studio Code
+Visual Studio Code (därav ingen .sln fil)
 PHP 8+ (cURL, POD)
 HTML
 CSS/Bootstrap 5
